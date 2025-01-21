@@ -1,0 +1,15 @@
+annotated-types
+anyio
+click
+fastapi
+greenlet
+h11
+idna
+pip
+pydantic
+pydantic_core
+sniffio
+SQLAlchemy
+starlette
+typing_extensions
+uvicorn
